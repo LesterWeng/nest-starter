@@ -1,0 +1,21 @@
+POST http://localhost:3000/user HTTP/1.1
+content-type: application/json
+
+{
+    "username": "lixin",
+    "password": "123456",
+    "status": 0,
+}
+
+# GET http://localhost:3000/user/1 HTTP/1.1
+
+# PUT http://localhost:3000/user/1 HTTP/1.1
+# content-type: application/json
+
+# {
+#     "username": "lixin",
+#     "password": "123456",
+#     "status": 1
+# }
+
+# DELETE  http://localhost:3000/user/1 HTTP/1.1
