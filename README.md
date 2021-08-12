@@ -1,7 +1,3 @@
-## 用途
-
-`nest typeorm` starter
-
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
